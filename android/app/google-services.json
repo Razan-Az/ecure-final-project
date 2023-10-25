@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589251308405",
+    "project_id": "ecure-ed59e",
+    "storage_bucket": "ecure-ed59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589251308405:android:2f32901c01a20230e3013c",
+        "android_client_info": {
+          "package_name": "com.example.e_cure_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589251308405-qne9nn2mj2ae2lbv6670s47iav8fiikh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0mQR-w0azsOsecBJVCF56WU3tbxD0vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589251308405-qne9nn2mj2ae2lbv6670s47iav8fiikh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
